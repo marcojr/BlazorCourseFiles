@@ -1,0 +1,22 @@
+[
+  {
+    "categoryId": 1,
+    "name": "Processor",
+    "key" :  "processors"
+  },
+  {
+    "categoryId": 2,
+    "name": "GPU",
+    "key": "gpu"
+  },
+  {
+    "categoryId": 3,
+    "name": "SSD",
+    "key": "ssds"
+  },
+  {
+    "categoryId": 4,
+    "name": "Memory",
+    "key": "memory"
+  }
+]

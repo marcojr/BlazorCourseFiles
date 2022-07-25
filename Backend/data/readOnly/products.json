@@ -1,0 +1,152 @@
+[
+  {
+    "productId": 4001,
+    "key": "fatal-bismarck-iv-ddr4-8gb",
+    "name": "Fatal Bismarck IV DDR4 8gb pc4200",
+    "categoryId": 4,
+    "desc": "Fatal Bismarck IV DDR4 PC DDR4 provides a powerful performance boost for gaming, video editing, and rendering with speeds up to 4200MHz. This cost-effective upgrade is available in 2400MHz–3733MHz speeds, CL15–19 latencies, single module capacities of 4GB–32GB, and kit capacities of 16GB–128GB.",
+    "picture": "/assets/products/fatal.png",
+    "price": 680,
+    "showOnHome": true
+  },
+  {
+    "productId": 1001,
+    "key": "gigafps-utz-5080",
+    "name": "GigaFPS UTZ 5080",
+    "categoryId": 2,
+    "desc": "The GigaFPS UTZ 5080 is powered by GigaFPS Darwin architecture to give you incredible new levels of gaming realism, speed, power efficiency, and immersion.. This is graphics reinvented.",
+    "picture": "/assets/products/gigafps.jpg",
+    "price": 410,
+    "showOnHome": true
+  },
+  {
+    "productId": 1002,
+    "key": "pixelcore-dinasty-6778-rt",
+    "name": "PixelCore Dinasty 6778 rt",
+    "categoryId": 2,
+    "desc": "The PixelCore Dinasty 6778 RT graphics card, powered by PixelCore Einstein architecture is engineered to deliver ultra-high frame rates and serious 4K resolution gaming.",
+    "picture": "/assets/products/pixelcore.jpg",
+    "price": 480,
+    "showOnHome": true
+  },
+  {
+    "productId": 3002,
+    "key": "charleston-500gb",
+    "name": "Charleston 500gb NVMe M.2",
+    "categoryId": 3,
+    "desc": "The ultimate in performance, upgraded. The Charleston 500gb NVMe M.2 is powered by the latest V-NAND technology and firmware optimisation. It maximises the potential of NVMe bandwidth for unbeatable computing. In capacities up to 2TB¹, with reliability of up to 1,200 TBW.",
+    "picture": "/assets/products/charleston.png",
+    "price": 680,
+    "showOnHome": true
+  },
+  {
+    "productId": 2002,
+    "key": "dma-frozen-17000-series",
+    "name": "DMA Frozen 17000 Series",
+    "categoryId": 1,
+    "desc": "When you have the world’s most advanced processor architecture for gamers and content creators, the possibilities are endless. Whether you are playing the latest games, designing the next skyscraper, or crunching data, you need a powerful processor that can handle it all—and more. Hands down, the DMA Frozen 17000 Series desktop processors set the bar for gamers and artists alike",
+    "picture": "/assets/products/dma-frozen.png",
+    "price": 380,
+    "showOnHome": true
+  },
+  {
+    "productId": 1003,
+    "key": "gigafps-utz-5020",
+    "name": "GigaFPS UTZ 3060",
+    "categoryId": 2,
+    "desc": "The GigaFPS UTZ 3060 is powered by GigaFPS Darwin architecture to give you incredible new levels of gaming realism, speed, power efficiency, and immersion.. This is graphics reinvented.",
+    "picture": "/assets/products/gigafps.jpg",
+    "price": 480,
+    "showOnHome": true
+  },
+  {
+    "productId": 1004,
+    "key": "gigafps-utz-1040",
+    "name": "GigaFPS UTZ 1040",
+    "categoryId": 2,
+    "desc": "The GigaFPS UTZ 1040 is powered by GigaFPS Darwin architecture to give you incredible new levels of gaming realism, speed, power efficiency, and immersion.. This is graphics reinvented.",
+    "picture": "/assets/products/gigafps.jpg",
+    "price": 630,
+    "showOnHome": true
+  },
+  {
+    "productId": 1005,
+    "key": "pixelcore-dinasty-6960-rt",
+    "name": "PixelCore Dinasty 6960 RT",
+    "categoryId": 2,
+    "desc": "The PixelCore Dinasty 6960 RT graphics card, powered by PixelCore Einstein architecture is engineered to deliver ultra-high frame rates and serious 4K resolution gaming.",
+    "picture": "/assets/products/pixelcore.jpg",
+    "price": 700,
+    "showOnHome": true
+  },
+  {
+    "productId": 1006,
+    "key": "gigafps-utz-1070",
+    "name": "GigaFPS UTZ 1070",
+    "categoryId": 2,
+    "desc": "The GigaFPS UTZ 1070 is powered by GigaFPS Darwin architecture to give you incredible new levels of gaming realism, speed, power efficiency, and immersion.. This is graphics reinvented.",
+    "picture": "/assets/products/gigafps.jpg",
+    "price": 630,
+    "showOnHome": true
+  },
+  {
+    "productId": 2001,
+    "key": "pastel-ultracore-g9-15900k",
+    "name": "Pastel Ultracore g9-15900K",
+    "categoryId": 1,
+    "desc": "The Pastel Ultracore g9-15900K is a 20-core/40-thread CPU with an integrated GPU with a TDP of 115 watts, clocked to 4.7GHz at base.",
+    "picture": "/assets/products/pastel-ultracore.png",
+    "price": 325,
+    "showOnHome": true
+  },
+  {
+    "productId": 2003,
+    "key": "pastel-ultracore-g9-18900k",
+    "name": "Pastel Ultracore g9-18900K",
+    "categoryId": 1,
+    "desc": "The Pastel Ultracore g9-18900K is a 20-core/40-thread CPU with an integrated GPU with a TDP of 115 watts, clocked to 4.7GHz at base.",
+    "picture": "/assets/products/pastel-ultracore.png",
+    "price": 425,
+    "showOnHome": true
+  },
+  {
+    "productId": 2004,
+    "key": "dma-frozen-19000-series",
+    "name": "DMA Frozen 19000 Series",
+    "categoryId": 1,
+    "desc": "When you have the world’s most advanced processor architecture for gamers and content creators, the possibilities are endless. Whether you are playing the latest games, designing the next skyscraper, or crunching data, you need a powerful processor that can handle it all—and more. Hands down, the DMA Frozen 17000 Series desktop processors set the bar for gamers and artists alike",
+    "picture": "/assets/products/dma-frozen.png",
+    "price": 380,
+    "showOnHome": true
+  },
+  {
+    "productId": 2005,
+    "key": "pastel-ultracore-g9-19900k",
+    "name": "Pastel Ultracore g9-19900K",
+    "categoryId": 1,
+    "desc": "The Pastel Ultracore g9-19900K is a 20-core/40-thread CPU with an integrated GPU with a TDP of 115 watts, clocked to 4.7GHz at base.",
+    "picture": "/assets/products/pastel-ultracore.png",
+    "price": 325,
+    "showOnHome": true
+  },
+  {
+    "productId": 2006,
+    "key": "dma-frozen-19500-series",
+    "name": "DMA Frozen 19500 Series",
+    "categoryId": 1,
+    "desc": "When you have the world’s most advanced processor architecture for gamers and content creators, the possibilities are endless. Whether you are playing the latest games, designing the next skyscraper, or crunching data, you need a powerful processor that can handle it all—and more. Hands down, the DMA Frozen 17000 Series desktop processors set the bar for gamers and artists alike",
+    "picture": "/assets/products/dma-frozen.png",
+    "price": 680,
+    "showOnHome": true
+  },
+  {
+    "productId": 3001,
+    "key": "blue-lagoon-500gb",
+    "name": "Blue Lagoon 500gb SSD",
+    "categoryId": 3,
+    "desc": "Ready for your high performance computing needs, a Blue Lagoon SATA SSD offers high capacity, enhanced reliability, and blazing speed. Technology enables Sequential Read Speeds up to 560MB/s and Sequential Write Speeds up to 530MB/s. ",
+    "picture": "/assets/products/blue-lagoon.png",
+    "price": 680,
+    "showOnHome": true
+  }
+]
